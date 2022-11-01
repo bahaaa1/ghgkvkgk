@@ -1,0 +1,88 @@
+#d{
+    text-align: center;
+
+}
+
+
+div{
+background-color: bisque;
+ padding: 10px 5px;
+ width: 300px;
+ margin: auto;
+ text-align: center;
+
+}
+
+#a{
+ 
+    color: oldlace;
+    background-color: deeppink;
+    padding: 10px 10px;
+    border-radius: 40px;
+    width: 200px;
+    border: 3px solid  deeppink ;
+ 
+}
+#b{
+    
+    color: oldlace;
+    background-color: deeppink;
+    padding: 10px 10px;
+    border-radius: 40px;
+    width: 200px;
+    border: 3px solid  deeppink ;
+
+}
+
+#c{
+    
+    padding: 10px 10px;
+    border-radius: 40px;
+    width: 200px;
+    color: oldlace;
+    background-color: deeppink;
+    border: 3px solid  deeppink ;
+    
+    
+}
+
+#d{
+    
+    color: oldlace;
+    background-color: deeppink;
+    padding: 10px 10px;
+    border-radius: 40px;
+    width: 200px;
+    border: 3px solid  deeppink ;
+
+}
+
+#e{
+ 
+    color: oldlace;
+    background-color: deeppink;
+    padding: 10px 10px;
+    border-radius: 40px;
+    width: 200px;
+    border: 3px solid  deeppink ;
+}
+
+button
+{
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+#c:hover{
+    color:  deeppink;
+    cursor: pointer;
+    background-color: aliceblue;
+    width: 200px;
+}
+
+
+p
+{
+    margin: auto;
+}
